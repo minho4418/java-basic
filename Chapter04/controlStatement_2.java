@@ -47,5 +47,14 @@ public class controlStatement_2 {
             total = total + i;
         }
         System.out.println(total);
+        
+        int[] iarr = {10,20,30,40,50};
+        for(int i = 0; i < iarr.lengh; i++){
+            int value = iarr[i];
+            System.out.println(value);
+        }
+        for(int value:iarr){
+            System.out.println(value); // for-each구문으로 
+        }
     }
 }
