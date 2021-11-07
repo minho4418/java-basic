@@ -54,7 +54,7 @@ public class controlStatement_2 {
             System.out.println(value);
         }
         for(int value:iarr){
-            System.out.println(value); // for-each구문으로 
+            System.out.println(value); // for-each구문으로 사용가능
         }
     }
 }
